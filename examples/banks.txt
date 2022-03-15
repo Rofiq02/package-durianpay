@@ -1,0 +1,95 @@
+-------------------------------------------------------------------
+ID    CODE                       BANK NAME
+-------------------------------------------------------------------
+12   mandiri                      Bank Mandiri
+16   bsm                          Bank Syariah Mandiri
+20   permata                      Bank Permata & Permata Syariah
+21   bii                          Maybank Indonesia
+22   panin                        Panin Bank
+23   uob                          UOB Indonesia
+24   ocbc                         OCBC NISP
+25   citibank                     Citibank
+26   artha                        Bank Artha Graha Internasional
+27   tokyo                        Bank of Tokyo Mitsubishi UFJ
+28   dbs                          DBS Indonesia
+29   standard_chartered           Standard Chartered Bank
+30   capital                      Bank Capital Indonesia
+31   anz                          ANZ Indonesia
+32   boc                          Bank of China (Hong Kong) Limited
+33   bumi_arta                    Bank Bumi Arta
+34   hsbc                         HSBC Indonesia
+35   rabobank                     Rabobank International Indonesia
+36   mayapada                     Bank Mayapada
+37   bjb                          BJB
+38   dki                          Bank DKI Jakarta
+39   daerah_istimewa              BPD DIY
+40   jawa_tengah                  Bank Jateng
+41   jawa_timur                   Bank Jatim
+42   jambi                        Bank Jambi
+43   sumut                        Bank Sumut
+44   sumatera_barat               Bank Sumbar (Bank Nagari)
+45   riau_dan_kepri               Bank Riau Kepri
+46   sumsel_dan_babel             Bank Sumsel Babel
+47   lampung                      Bank Lampung
+48   kalimantan_selatan           Bank Kalsel
+49   kalimantan_barat             Bank Kalbar
+50   kalimantan_timur             Bank Kaltim
+51   kalimantan_tengah            Bank Kalteng
+52   sulselbar                    Bank Sulselbar
+53   sulut                        Bank SulutGo
+54   nusa_tenggara_barat          Bank NTB
+55   bali                         BPD Bali
+56   nusa_tenggara_timur          Bank NTT
+57   maluku                       Bank Maluku
+58   papua                        Bank Papua
+59   bengkulu                     Bank Bengkulu
+60   sulawesi                     Bank Sulteng
+61   sulawesi_tenggara            Bank Sultra
+62   nusantara_parahyangan        Bank Nusantara Parahyangan
+63   india                        Bank of India Indonesia
+64   mestika_dharma               Bank Mestika Dharma
+65   sinarmas                     Bank Sinarmas
+66   maspion                      Bank Maspion Indonesia
+67   ganesha                      Bank Ganesha
+68   icbc                         ICBC Indonesia
+69   qnb_kesawan                  QNB Indonesia
+70   btn                          BTN (Bank Tabungan Negara)
+71   woori                        Bank Woori Saudara
+74   bjb_syr                      BJB Syariah
+75   mega                         Bank Mega
+76   bukopin                      Bukopin
+77   jasa_jakarta                 Bank Jasa Jakarta
+78   hana                         KEB Hana Bank Indonesia
+79   mnc_internasional            Bank MNC Internasional
+80   agroniaga                    BRI Agroniaga
+81   sbi_indonesia                SBI Indonesia
+82   royal                        Bank Royal Indonesia
+83   nationalnobu                 Nobu (Nationalnobu) Bank
+84   mega_syr                     Bank Mega Syariah
+85   ina_perdana                  Bank Ina Perdana
+86   sahabat_sampoerna            Bank Sahabat Sampoerna
+87   kesejahteraan_ekonomi        Bank Kesejahteraan Ekonomi
+88   bca_syr                      BCA (Bank Central Asia) Syariah
+89   artos                        Bank Artos Indonesia
+73   bri_syr                      BRI (Bank Rakyat Indonesia) Syariah
+13   bri                          Bank Rakyat Indonesia
+15   bca                          Bank Central Asia
+72   tabungan_pensiunan_nasional  BTPN
+17   cimb                         CIMB Niaga & CIMB Niaga Syariah
+18   muamalat                     Muamalat
+19   danamon                      Bank Danamon
+90   mayora                       Bank Mayora Indonesia
+91   index_selindo                Bank Index Selindo
+92   victoria_internasional       Bank Victoria International
+93   agris                        Bank Agris
+94   chinatrust                   CTBC (Chinatrust) Indonesia
+95   commonwealth                 Commonwealth Bank
+96   victoria_syr                 Bank Victoria Syariah
+97   banten                       BPD Banten
+98   doku                         Doku
+99   mutiara                      Bank Mutiara
+100  panin_syr                   Panin Dubai Syariah
+101  gopay                       E-wallet Gopay
+102  ovo                         E-wallet OVO
+103  dana                        E-wallet DANA
+14   bni                          BNI (Bank Negara Indonesia) & BNI Syariah

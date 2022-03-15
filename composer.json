@@ -1,0 +1,38 @@
+{
+  "name": "rofiqdev/durianpay",
+  "description": "Unofficial Integration Kit for Durianpay.id",
+  "type": "library",
+  "require": {
+    "guzzlehttp/guzzle": "^6.5",
+    "php": ">=7.0.0",
+    "ext-json": "*"
+  },
+  "license": "MIT",
+  "homepage": "https://durianpay.id",
+  "support": {
+    "issues": "https://github.com/Rofiq02/package-durianpay/issues",
+    "source": "https://github.com/Rofiq02/package-durianpay"
+  },
+  "authors": [
+    {
+      "name": "RofiqDev",
+      "email": "abdulrafiqyusufa08@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "autoload": {
+    "psr-4": {
+      "Esyede\\DurianPay\\": "src/"
+    }
+  },
+  "extra": {
+    "laravel": {
+      "providers": [
+        "RofiqDev\\DurianPay\\Laravel\\ServiceProvider"
+      ],
+      "aliases": {
+        "DurianPayClient": "RofiqDev\\DurianPay\\Laravel\\Facade"
+      }
+    }
+  }
+}
